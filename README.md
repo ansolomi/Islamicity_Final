@@ -1,4 +1,3 @@
-# Books-bootstrap-website
 Islamicity README
 
 Aplikasi ini dibuat untuk mempermudah muslimin dan muslimah untuk mendapatkan
